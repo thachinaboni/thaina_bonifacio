@@ -1,2 +1,2 @@
-# Olá
+# Olá, eu sou a Thainá!👩🏾‍💻👋🏾
 Transformando dados em magia no GitHub! 💫 Entusiasta na área de Engenharia de Dados apaixonada por desvendar os segredos escondidos nas informações. Construo pipelines de dados, automatizo processos e crio visualizações. Amante da tecnologia e da cultura data-driven. Viciada em resolver quebra-cabeças de dados. Pronta para colaborar em projetos desafiadores e achar o ouro no mundo do Big Data. 
